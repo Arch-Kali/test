@@ -1,3 +1,3 @@
 # test
 
-git has a small learning curve
+gitHUB has a small learning curve
