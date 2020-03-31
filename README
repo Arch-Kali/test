@@ -1,0 +1,10 @@
+public class ternary{
+	public static void main(String[] args){
+		int num = 4;
+		System.out.println(iii(num));
+	}
+
+	static boolean iii(int n){
+		return (n>0 && n<5) ? true : false ;
+	}
+}
